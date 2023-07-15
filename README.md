@@ -1,4 +1,4 @@
-#Text to Speech Project - DAY 02
+# Text to Speech Project - DAY 02
 
 This project is a beginner-level text to speech converter consists of one HTML Page.
 
